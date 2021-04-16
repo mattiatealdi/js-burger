@@ -10,7 +10,7 @@ var button = document.getElementById('button');
 
  
 
-
+function nome();
 
 
 function nameCheck(str){
