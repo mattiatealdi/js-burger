@@ -12,7 +12,7 @@ var button = document.getElementById('button');
 
 
 
-function 
+function myname(){}
 
 
 function nameCheck(str){
