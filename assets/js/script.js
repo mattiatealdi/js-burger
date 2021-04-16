@@ -8,9 +8,11 @@ var button = document.getElementById('button');
  var coupons = ['sconto2021', 'sconto-bool'];
  var discountValue = 0.3;
 
- 
 
-function nome();
+
+
+
+function 
 
 
 function nameCheck(str){
